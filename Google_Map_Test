@@ -1,0 +1,6 @@
+echo "# Google-Maps-Test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/JaeKim212/Google-Maps-Test.git
+git push -u origin master
